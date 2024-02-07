@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 5%;
+    background-color: white;
+    color: #160958;
+
+    h2{
+        cursor: pointer;
+    }
+
+    a{
+        text-decoration: none;
+        // background-color: #e0cffe;
+        padding: 5px 15px;
+        color: #160958;
+        font-weight: 500;
+        font-size: 1.3rem;
+        position: relative;
+    }
+}
